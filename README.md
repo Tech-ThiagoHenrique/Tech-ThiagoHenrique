@@ -1,13 +1,6 @@
 # 🏔️ Thiago Henrique
 
 **Infraestrutura • Arquitetura de Software (em estudo) • Cybersegurança (em estudo)**
-## 🔗 Contato
-
-<p align="left">
-  <a href="http://www.linkedin.com/in/thiihenrique">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p> 
 
 ---
 
@@ -59,5 +52,14 @@ Hoje meu foco não é só “aprender ferramentas”, mas entender como tudo se 
 - e onde normalmente falham em segurança
 
 ---
+
+## 🔗 Contato
+
+<p align="left">
+  <a href="http://www.linkedin.com/in/thiihenrique">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p> 
+
 
 ⭐ Obrigado por visitar meu perfil
